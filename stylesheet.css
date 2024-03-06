@@ -1,3 +1,7 @@
 .css-1705j0v {
     display: none;
   }
+
+a[href*='https://github.com/Chainlit/chainlit'] {
+    visibility: hidden;
+}
